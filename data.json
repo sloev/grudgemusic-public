@@ -1,0 +1,561 @@
+{
+  "generated_at": "2026-11-16T23:55+00:00",
+  "projects": [
+    "Grudge Mixes",
+    "Insane Music",
+    "Soviet Film Music"
+  ],
+  "status_definitions": {
+    "Done": "Track downloaded and independently verified.",
+    "Researched": "Research complete enough; ready for a download-capable agent.",
+    "Investigating": "Research, identity, or access route still being checked."
+  },
+  "records": [
+    {
+      "name": "African early-recording leads: South Africa 1923 and Anlo-Ewe 1925",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Al Craver [Vernon Dalhart] — “Little Mary Phagan” (Columbia 15031-D, 1925)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Arabic early-recording screening — first pass (2026-11-15)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Armenian recording lead — Mademoiselle Rosalie, “Pamp Vorodan” (Favorite Record, Constantinople, 1911)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Audio-locator pass, Internet Archive and National Jukebox mirrors (2026-11-15)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Bascom Lamar Lunsford — “Jesse James” (Okeh 40155, 1924)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Bengal's early recorded *Bande Mataram* cluster (1905–1908)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Candidate lead: “Sì, vendetta” — Verdi, *Rigoletto* (Vocalion, ca. 1921)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Candidate lead: “Vengeance at Last” — Saint-Saëns, *Samson et Dalila* (1908)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Candidate recording: Enrico Caruso — “Vesti la giubba” (1904)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Candidate research lead: Vahan Boyajian, “Derzor Dasdaanaci” (Bilbil 2)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Candidate research: Papus Rache / Bar Kochba (Yiddish theatre repertory)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Candidate: “Jesse James” — Bentley Ball, Columbia A3085 (1919/1920)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Candidate: “Revenge! Timotheus Cries” — Handel, *Alexander's Feast* (Vocalion X-9560, 1924/25)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "East Asian early-recording screening — Korea and Cantonese/Chinese records (2026-11-15)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Eastern Mediterranean title-search pass: Greek and Ottoman leads (2026-11-14)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Egypt: Dinshaway mawwal / ballad tradition (1906)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Existing-lead re-audit under revised methodology — 2026-11-15",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "First-pass archival screening",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Ford and Ford — “Skeeg-A-Lee Blues” (Paramount 12244-A, 1924)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Formal candidate-record audit — 2026-11-15",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Furry Lewis — “Billy Lyons and Stack O'Lee” (Vocalion 1132, 1927)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Global archive search note: Arabic 78s and Mexican corridos",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Global early-recording research map",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-001 — Helen Paul, “Tzain ma Hunchetz” (Columbia, April 1918 session)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-002 — Mardiros Der Sarkis Tashjian, “Hairenikt Mortsir” (Columbia E531/4084, 1909)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-003 — Tashjian Brothers, “Himi El Lrenk” (Columbia E668/4953, 1910)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-004 — Mardiros Der Sarkis Tashjian, “Himi El Lrenk” (Columbia E529-4100, 1909)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-005 — Tashjian Brothers, “Menk Bedk E Grvenk” (Columbia E661/4973, 1910)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-006 — Mardiros Tashjian, “Dalvorig” (Columbia, 1909)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-007 — Tashjian Brothers, “Tartzial Paylets” (Columbia E658/4964, 1910)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-008 — Tashjian Brothers, “Kerezmanis Togh” (Columbia E657/4955, 1910)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-009 — Tashjian Brothers, “Akh Vasburagan” (Columbia E666/4974, 1910)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-010 — Zabelle Panosian, “Khavarel Yem” (Columbia E4010, June 1918)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AM-011 — Tashjian Brothers, “Tashnagtsagan Khump” (Columbia E665-4962, 1910)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-EG-001 — Sayyid Darwīsh, “Istaʿgibū yā Afandiyya” (1914-listed; 78 rpm issue unresolved)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-EG-002 — Sayyid Darwīsh, “Qum yā Miṣrī” (Odeon; 1919 work, specific disc date unknown)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-GH-001 — Roland C. Nathaniels, “Anlo Patriotic Song” / “Ewe Battle Hymn” (Zonophone 3972, 1925)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-IN-001 — Babu Surendra Nath Banerjee, “Bande Mataram and Swadeshi” / “Partition of Bengal” (National Grand Record / Beka, catalogue 20290",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-IN-001 — Rabindranath Tagore, “Bande Mataram” (H. Bose cylinder / Pathé-H. Bose disc; 1890s–1908, date disputed)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-MX-001 — Trío Nava, “Heraclio Bernal” (Columbia C4054 / matrix 87650, July 1921)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-OT-001 — Smyrnaiki Estudiantina, “Marche de Niyazi et Enver Bey / Marche Huriet” (Odeon 58588, June 1908)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-OT-002 — Nubar Effendi, “Vatan Canto” (Odeon 54584, 1908–1909)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-OT-003 — Jacob Algava, “Hermanos mis queridos” (Gramophone, March 1909)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-OT-004 — Çakum Effendi, “Malandanzas del asker” (Gramophone 11-12734, 1911)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-OT-005 — Mlle Mariette, “El sentenciado del bajá” (Zonophone X-103831, 1911)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-US-010 retrieval — 2026-11-16",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-US-011 retrieval — 2026-11-16",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-US-011 — Riley Puckett, “The Boston Burglar” (Columbia 15050-D, 1925)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-US-012 — Al Craver [Vernon Dalhart], “The Convict and the Rose” (Columbia 15046-D, 1925)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-US-013 — Al Craver [Vernon Dalhart], “Naomi Wise” (Columbia 15053-D, 1925)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-US-014 — Tobe Little [Vernon Dalhart], “Chain Gang Song” (Okeh 40328, 1925)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-US-015 — Al Craver [Vernon Dalhart], “Sentenced to Life Behind These Grey Walls” (Columbia 15060-D, 1925)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-US-016 — George Reneau, “Woman's Suffrage” (Vocalion 14999, 1925)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-ZA-001 — Sol T. Plaatje, “Nkosi Sikelel’ iAfrika” (Zonophone 4168, matrix Bb3640-2, 1923)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Greek-language early-recording screening — 2026-11-15",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Japan lead: Yoshida Naramaru, *Akō Gishi-den Toiri* (Royal Record)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Kolkata theatre recording lead — “Khune Nahak: Gana Gana Gana” (1902)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Latin American early corrido screening — 2026-11-15",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Lead: Helen Paul, “Tzain ma Hunchetz” (Columbia E-4661; 1918)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Lead: “You Ought to Be Arrested and Put in Jail” — Land Norris, Okeh 40374 (1924)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Long “Cleve” Reed and Little Harvey Hull — “Original Stack O'Lee Blues” (Black Patti 8030, 1927)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Mardiros Der Sarkis Tashjian — 1909 Columbia Armenian-language recordings",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Mix concept — The Public Answer: accusation, memory, revenge",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Mix-building flexibility proposal — 2026-11-15",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Ottoman, Eastern Mediterranean and diaspora recording routes — 2026-11-14",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Peg Leg Howell and Jim Hill — “Ball and Chain Blues” (Columbia 14535-D, 1929)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Provisional mix dossier 01 — The Honour of Vengeance",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Research dossier and repository architecture audit — 2026-11-15",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Research lead: “Hagen meditates revenge” — Wagner, *Götterdämmerung*",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Research lead: “Revenge! Timotheus cries” — Handel, *Alexander’s Feast*",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Rights and clearance register",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Riley Puckett — “Jesse James” (Columbia 15033-D, 1925)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Riley Puckett — “Railroad Bill” (Columbia 15040-D, 1924)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "South Asia early-recording research note — 2026-11-14",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "Tashjian Brothers 1910 Columbia repertoire: Dalvorig and Grvetsek Dgherk",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "“Dalvorig” / “Dalvorigtsi” — Mihran Damadian; Tashjian Columbia recordings, 1909 and 1910",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    },
+    {
+      "name": "“Pamp Vorodan” / “Bam Porotan” — Torcom Bézazian, Victor 69102 (1916)",
+      "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-16",
+      "kind": "Research record"
+    }
+  ]
+}
