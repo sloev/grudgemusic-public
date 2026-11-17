@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:32+00:00",
+  "generated_at": "2026-11-17T00:42+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -522,6 +522,13 @@
       "kind": "Research record"
     },
     {
+      "name": "GM-US-017 — Roba Stanley & Bill Patterson, “Little Frankie” (Okeh 40436, matrix 8848; recorded December 1924)",
+      "project": "Grudge Mixes",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
       "name": "GM-ZA-001 — Sol T. Plaatje, “Nkosi Sikelel’ iAfrika” (Zonophone 4168, matrix Bb3640-2, 1923)",
       "project": "Grudge Mixes",
       "status": "Researching",
@@ -754,6 +761,13 @@
     },
     {
       "name": "IM-044 — Bruce Jackson, Indiana Prison Songs (reels 1–2), 1963",
+      "project": "Insane Music",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "IM-045 — Bruce Jackson, “Field Recordings: Prison Songs” (Smithsonian Asch Collection, FW-ASCH-7RR-1966)",
       "project": "Insane Music",
       "status": "Researching",
       "updated": "2026-11-17",
@@ -1017,6 +1031,13 @@
       "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Audio record"
+    },
+    {
+      "name": "SF-ARM-001 — «Прыжок через пропасть» / “Ara's Song” (Armenfilm, 1959; Armenian Radio Archive recording entry, 1960)",
+      "project": "Soviet Film Music",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
     },
     {
       "name": "Sovietfilm collection index and accessible film-mix sources — 2026-11-16",
