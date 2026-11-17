@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:23+00:00",
+  "generated_at": "2026-11-17T00:32+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -396,6 +396,13 @@
       "kind": "Research record"
     },
     {
+      "name": "GM-ES-001 — María García, “La noche de Reyes” (Asturias; recorded 19 January 1939)",
+      "project": "Grudge Mixes",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
       "name": "GM-GH-001 — Roland C. Nathaniels, “Anlo Patriotic Song” / “Ewe Battle Hymn” (Zonophone 3972, 1925)",
       "project": "Grudge Mixes",
       "status": "Researching",
@@ -739,6 +746,20 @@
       "kind": "Research record"
     },
     {
+      "name": "IM-043 — The Copacabana clandestine cassette compilation (“A FITA”), Rio de Janeiro, c.1975",
+      "project": "Insane Music",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "IM-044 — Bruce Jackson, Indiana Prison Songs (reels 1–2), 1963",
+      "project": "Insane Music",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
       "name": "Insane Music legacy migration audit",
       "project": "Insane Music",
       "status": "Researching",
@@ -908,6 +929,13 @@
     },
     {
       "name": "`Тайна третьей планеты` / The Mystery of the Third Planet (1981)",
+      "project": "Soviet Film Music",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "Armenian Radio Archive — Soviet Armenian film-music recordings (research lead, 2026-11-17)",
       "project": "Soviet Film Music",
       "status": "Researching",
       "updated": "2026-11-17",
