@@ -6,1008 +6,1008 @@
     "Soviet Film Music"
   ],
   "status_definitions": {
-    "Done": "Downloaded audio independently verified.",
-    "In Drive (listed)": "A Drive inventory lists the file; this does not establish playback or isolated-track status.",
-    "Reported in Drive": "Legacy project notes report a file in Drive; current Drive listing has not been independently checked.",
-    "Ready for Drive": "Exact downloadable object and permitted route identified; awaiting Drive retrieval.",
-    "Researched": "Research complete enough for further review; not necessarily downloadable.",
-    "Stream only": "A listening route exists; no downloadable file route verified.",
-    "Owner approval needed": "A paid route exists but requires owner approval.",
-    "Blocked / unresolved": "Access, link, or recording identity remains unresolved.",
-    "Investigating": "Research, identity, provenance, or access route still being checked."
+    "Verified copy": "A copy has been independently checked.",
+    "On file (listed)": "An inventory lists the item; playback and edit status are not implied.",
+    "Previously reported": "Earlier project notes mention the item; its current location has not been rechecked.",
+    "Ready for review": "The item and a permitted access route have been identified.",
+    "Researched": "Research is sufficiently complete for further review.",
+    "Stream only": "A listening route exists; no local copy is confirmed.",
+    "Approval needed": "Further owner approval is required.",
+    "Unresolved": "Access, link, or recording identity remains unresolved.",
+    "Researching": "Research, identity, provenance, or access route is still being checked."
   },
   "records": [
     {
       "name": "GM 2026 006 Tuskegee Ive Been Buked Victor 1916",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM IT 001 Caruso Vesti la giubba Victor B 1000 1904",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM IT 002 Si vendetta Galvany Ruffo",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM IT Ah Mimi tu piu Caruso Scotti",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM IT Cortigiani vil razza Ruffo",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM IT Otello Si pel ciel Caruso Ruffo",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM IT Si vendetta Battistini Hayes",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM M01 01 Saint Saens Vengeance at Last deGogorza Homer Victor 1908",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM M01 01 Saint Saens Vengeance at Last deGogorza Homer Victor 1908 UCSB DAHR",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM UK 001 Hagen meditates revenge Radford HMV D704 1922",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM US 001 Bentley Ball Jesse James Columbia A3085 1919 1920",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM US 004 Riley Puckett Jesse James Columbia 15033 D 1924 1925",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM US 006 Riley Puckett Railroad Bill Columbia 15040 D 1924",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM US 010 Peg Leg Howell Jim Hill Ball and Chain Blues Columbia 14535 D 1929",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM US 011 Riley Puckett Boston Burglar Columbia 15050 D 1925",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM US Dalhart Jesse James Edison 51621",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "GM US Waring Stack O Lee Blues 1924",
       "project": "Grudge Mixes",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "African early-recording leads: South Africa 1923 and Anlo-Ewe 1925",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Al Craver [Vernon Dalhart] — “Little Mary Phagan” (Columbia 15031-D, 1925)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Arabic early-recording screening — first pass (2026-11-15)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Armenian recording lead — Mademoiselle Rosalie, “Pamp Vorodan” (Favorite Record, Constantinople, 1911)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Audio-locator pass, Internet Archive and National Jukebox mirrors (2026-11-15)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Bascom Lamar Lunsford — “Jesse James” (Okeh 40155, 1924)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Bengal's early recorded *Bande Mataram* cluster (1905–1908)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Candidate lead: “Sì, vendetta” — Verdi, *Rigoletto* (Vocalion, ca. 1921)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Candidate lead: “Vengeance at Last” — Saint-Saëns, *Samson et Dalila* (1908)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Candidate recording: Enrico Caruso — “Vesti la giubba” (1904)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Candidate research lead: Vahan Boyajian, “Derzor Dasdaanaci” (Bilbil 2)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Candidate research: Papus Rache / Bar Kochba (Yiddish theatre repertory)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Candidate: “Jesse James” — Bentley Ball, Columbia A3085 (1919/1920)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Candidate: “Revenge! Timotheus Cries” — Handel, *Alexander's Feast* (Vocalion X-9560, 1924/25)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "East Asian early-recording screening — Korea and Cantonese/Chinese records (2026-11-15)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Eastern Mediterranean title-search pass: Greek and Ottoman leads (2026-11-14)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Egypt: Dinshaway mawwal / ballad tradition (1906)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Existing-lead re-audit under revised methodology — 2026-11-15",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "First-pass archival screening",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Ford and Ford — “Skeeg-A-Lee Blues” (Paramount 12244-A, 1924)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Formal candidate-record audit — 2026-11-15",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Furry Lewis — “Billy Lyons and Stack O'Lee” (Vocalion 1132, 1927)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Global archive search note: Arabic 78s and Mexican corridos",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Global early-recording research map",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-001 — Helen Paul, “Tzain ma Hunchetz” (Columbia, April 1918 session)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-002 — Mardiros Der Sarkis Tashjian, “Hairenikt Mortsir” (Columbia E531/4084, 1909)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-003 — Tashjian Brothers, “Himi El Lrenk” (Columbia E668/4953, 1910)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-004 — Mardiros Der Sarkis Tashjian, “Himi El Lrenk” (Columbia E529-4100, 1909)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-005 — Tashjian Brothers, “Menk Bedk E Grvenk” (Columbia E661/4973, 1910)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-006 — Mardiros Tashjian, “Dalvorig” (Columbia, 1909)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-007 — Tashjian Brothers, “Tartzial Paylets” (Columbia E658/4964, 1910)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-008 — Tashjian Brothers, “Kerezmanis Togh” (Columbia E657/4955, 1910)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-009 — Tashjian Brothers, “Akh Vasburagan” (Columbia E666/4974, 1910)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-010 — Zabelle Panosian, “Khavarel Yem” (Columbia E4010, June 1918)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-AM-011 — Tashjian Brothers, “Tashnagtsagan Khump” (Columbia E665-4962, 1910)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-EG-001 — Sayyid Darwīsh, “Istaʿgibū yā Afandiyya” (1914-listed; 78 rpm issue unresolved)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-EG-002 — Sayyid Darwīsh, “Qum yā Miṣrī” (Odeon; 1919 work, specific disc date unknown)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-GH-001 — Roland C. Nathaniels, “Anlo Patriotic Song” / “Ewe Battle Hymn” (Zonophone 3972, 1925)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-IN-001 — Babu Surendra Nath Banerjee, “Bande Mataram and Swadeshi” / “Partition of Bengal” (National Grand Record / Beka, catalogue 20290",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-IN-001 — Rabindranath Tagore, “Bande Mataram” (H. Bose cylinder / Pathé-H. Bose disc; 1890s–1908, date disputed)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-MX-001 — Trío Nava, “Heraclio Bernal” (Columbia C4054 / matrix 87650, July 1921)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-OT-001 — Smyrnaiki Estudiantina, “Marche de Niyazi et Enver Bey / Marche Huriet” (Odeon 58588, June 1908)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-OT-002 — Nubar Effendi, “Vatan Canto” (Odeon 54584, 1908–1909)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-OT-003 — Jacob Algava, “Hermanos mis queridos” (Gramophone, March 1909)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-OT-004 — Çakum Effendi, “Malandanzas del asker” (Gramophone 11-12734, 1911)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-OT-005 — Mlle Mariette, “El sentenciado del bajá” (Zonophone X-103831, 1911)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-US-010 retrieval — 2026-11-16",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-US-011 retrieval — 2026-11-16",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-US-011 — Riley Puckett, “The Boston Burglar” (Columbia 15050-D, 1925)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-US-012 — Al Craver [Vernon Dalhart], “The Convict and the Rose” (Columbia 15046-D, 1925)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-US-013 — Al Craver [Vernon Dalhart], “Naomi Wise” (Columbia 15053-D, 1925)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-US-014 — Tobe Little [Vernon Dalhart], “Chain Gang Song” (Okeh 40328, 1925)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-US-015 — Al Craver [Vernon Dalhart], “Sentenced to Life Behind These Grey Walls” (Columbia 15060-D, 1925)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-US-016 — George Reneau, “Woman's Suffrage” (Vocalion 14999, 1925)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "GM-ZA-001 — Sol T. Plaatje, “Nkosi Sikelel’ iAfrika” (Zonophone 4168, matrix Bb3640-2, 1923)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Greek-language early-recording screening — 2026-11-15",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Japan lead: Yoshida Naramaru, *Akō Gishi-den Toiri* (Royal Record)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Kolkata theatre recording lead — “Khune Nahak: Gana Gana Gana” (1902)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Latin American early corrido screening — 2026-11-15",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Lead: Helen Paul, “Tzain ma Hunchetz” (Columbia E-4661; 1918)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Lead: “You Ought to Be Arrested and Put in Jail” — Land Norris, Okeh 40374 (1924)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Long “Cleve” Reed and Little Harvey Hull — “Original Stack O'Lee Blues” (Black Patti 8030, 1927)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Mardiros Der Sarkis Tashjian — 1909 Columbia Armenian-language recordings",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Mix concept — The Public Answer: accusation, memory, revenge",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Mix-building flexibility proposal — 2026-11-15",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Ottoman, Eastern Mediterranean and diaspora recording routes — 2026-11-14",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Peg Leg Howell and Jim Hill — “Ball and Chain Blues” (Columbia 14535-D, 1929)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Provisional mix dossier 01 — The Honour of Vengeance",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Research dossier and repository architecture audit — 2026-11-15",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Research lead: “Hagen meditates revenge” — Wagner, *Götterdämmerung*",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Research lead: “Revenge! Timotheus cries” — Handel, *Alexander’s Feast*",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Rights and clearance register",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Riley Puckett — “Jesse James” (Columbia 15033-D, 1925)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Riley Puckett — “Railroad Bill” (Columbia 15040-D, 1924)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "South Asia early-recording research note — 2026-11-14",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Tashjian Brothers 1910 Columbia repertoire: Dalvorig and Grvetsek Dgherk",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "“Dalvorig” / “Dalvorigtsi” — Mihran Damadian; Tashjian Columbia recordings, 1909 and 1910",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "“Pamp Vorodan” / “Bam Porotan” — Torcom Bézazian, Victor 69102 (1916)",
       "project": "Grudge Mixes",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Alcoholic Blues Lu Watters",
       "project": "Insane Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Good Time Blues Johnny Otis",
       "project": "Insane Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "IM Flinders Horace Eloise Hospital piano recital 1948",
       "project": "Insane Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Knockin Blues Ann Jones",
       "project": "Insane Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Soledad Brother Prison Letters George Jackson",
       "project": "Insane Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Brazil small-web cassette discovery: Demo-Tapes Brasil / G.D.E. (2026-11-16)",
       "project": "Insane Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Environment-first research leads",
       "project": "Insane Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Horace Flinders piano recital retrieval — 2026-11-16",
       "project": "Insane Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Legacy provisional note — Faust prison scene",
       "project": "Insane Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Legacy provisional note — Lonesome Jailhouse Blues",
       "project": "Insane Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Legacy provisional note — Mille et un jours en prison à Berlin",
       "project": "Insane Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Philippine Cordillera — Salidummay / Dap-ayan ti Kultura iti Kordilyera cassette research",
       "project": "Insane Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "SF Kancheli Kin dza dza film mix excerpt 0 180s",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Kancheli Kin dza dza film mix excerpt 0 90s",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Kancheli Kin dza dza film mix excerpt 10m 12m30s",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Kancheli Kin dza dza film mix excerpt 130m 131m30s",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Kancheli Kin dza dza film mix excerpt 20m 22m",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Kancheli Kin dza dza film mix excerpt 30m 32m",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Kancheli Kin dza dza film mix excerpt 40m 42m",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Kancheli Kin dza dza film mix excerpt 5m 7m",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Kancheli Kin dza dza film mix excerpt 60m 63m",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Zatsepin Taina tretey planety film mix cue main theme 0 180s",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Zatsepin Taina tretey planety film mix excerpt 20m 22m",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Zatsepin Taina tretey planety film mix excerpt 40m 42m",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "SF Zatsepin Taina tretey planety film mix full",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Staging archive — Kancheli MKM 197",
       "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
+      "status": "On file (listed)",
       "updated": "2026-11-17",
       "kind": "Staging archive"
     },
     {
       "name": "`Аэлита` / Aelita: Queen of Mars (1924) — music and accompaniment",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "`Кин-дза-дза!` / Kin-dza-dza! (1986)",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "`Космический рейс` / Cosmic Voyage (1935; released 1936): music and soundtrack versions",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "`Тайна третьей планеты` / The Mystery of the Third Planet (1981)",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Initial research plan",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Kancheli and Zatsepin soundtrack release status — 2026-11-16",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Kin-dza-dza audio retrieval — 2026-11-16",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Legacy provisional note — Kin-dza-dza! excerpt 0–180s",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Legacy provisional note — Kin-dza-dza! excerpt 130–131m30s",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Legacy provisional note — Kin-dza-dza! excerpt 20–22m",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Legacy provisional note — Kin-dza-dza! excerpt 60–63m",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Legacy provisional note — Mystery of the Third Planet excerpt 0–90s",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Legacy provisional note — Mystery of the Third Planet excerpt 10–12m30s",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Legacy provisional note — Mystery of the Third Planet excerpt 30–32m",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
       "name": "Legacy provisional note — Mystery of the Third Planet full mix",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
+      "kind": "Audio record"
     },
     {
-      "name": "Sovietfilm Drive inventory and accessible film-mix sources — 2026-11-16",
+      "name": "Sovietfilm collection index and accessible film-mix sources — 2026-11-16",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Zatsepin film-mix full retrieval — 2026-11-16",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Сталкер (1979): Eduard Artemyev's soundtrack and the album recording of «Медитация»",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "Тайна третьей планеты audio retrieval — 2026-11-16",
       "project": "Soviet Film Music",
-      "status": "Investigating",
+      "status": "Researching",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "SF-AUD-001 — Kin-dza-dza! (Kancheli / Olympia MKM197)",
       "project": "Soviet Film Music",
-      "status": "Owner approval needed",
+      "status": "Approval needed",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
     {
       "name": "SF-AUD-004 — The Mystery of the Third Planet, “Главная тема”",
       "project": "Soviet Film Music",
-      "status": "Owner approval needed",
+      "status": "Approval needed",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
