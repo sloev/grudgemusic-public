@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:16+00:00",
+  "generated_at": "2026-11-17T00:23+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -739,6 +739,13 @@
       "kind": "Research record"
     },
     {
+      "name": "Insane Music legacy migration audit",
+      "project": "Insane Music",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
       "name": "Legacy provisional note — Faust prison scene",
       "project": "Insane Music",
       "status": "Researching",
@@ -763,6 +770,20 @@
       "name": "Philippine Cordillera — Salidummay / Dap-ayan ti Kultura iti Kordilyera cassette research",
       "project": "Insane Music",
       "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-AUD-001 — Kin-dza-dza! (Kancheli / Olympia MKM197)",
+      "project": "Soviet Film Music",
+      "status": "Approval needed",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-AUD-004 — The Mystery of the Third Planet, “Главная тема”",
+      "project": "Soviet Film Music",
+      "status": "Approval needed",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
@@ -994,20 +1015,6 @@
       "name": "Тайна третьей планеты audio retrieval — 2026-11-16",
       "project": "Soviet Film Music",
       "status": "Researching",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "SF-AUD-001 — Kin-dza-dza! (Kancheli / Olympia MKM197)",
-      "project": "Soviet Film Music",
-      "status": "Approval needed",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "SF-AUD-004 — The Mystery of the Third Planet, “Главная тема”",
-      "project": "Soviet Film Music",
-      "status": "Approval needed",
       "updated": "2026-11-17",
       "kind": "Research record"
     },
