@@ -6,9 +6,11 @@
     "Soviet Film Music"
   ],
   "status_definitions": {
-    "Done": "Track downloaded and independently verified.",
-    "Researched": "Research complete enough; ready for a download-capable agent.",
-    "Investigating": "Research, identity, or access route still being checked."
+    "Done": "Downloaded audio independently verified.",
+    "In Drive (listed)": "A Drive inventory lists the file; this does not establish playback or isolated-track status.",
+    "Reported in Drive": "Legacy project notes report a file in Drive; current Drive listing has not been independently checked.",
+    "Researched": "Research or a lawful retrieval route is ready for a download-capable agent.",
+    "Investigating": "Research, identity, provenance, or access route still being checked."
   },
   "records": [
     {
@@ -572,28 +574,7 @@
       "kind": "Research record"
     },
     {
-      "name": "Faust — Scene de la Prison (Affre / Landouzy)",
-      "project": "Insane Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
       "name": "Horace Flinders piano recital retrieval — 2026-11-16",
-      "project": "Insane Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "Lonesome Jailhouse Blues — reported Drive file",
-      "project": "Insane Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "Mille et un jours en prison à Berlin — Chapter I",
       "project": "Insane Music",
       "status": "Investigating",
       "updated": "2026-11-17",
@@ -605,6 +586,83 @@
       "status": "Investigating",
       "updated": "2026-11-17",
       "kind": "Research record"
+    },
+    {
+      "name": "Faust — Scene de la Prison (Affre / Landouzy)",
+      "project": "Insane Music",
+      "status": "Reported in Drive",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Lonesome Jailhouse Blues — reported Drive file",
+      "project": "Insane Music",
+      "status": "Reported in Drive",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Mille et un jours en prison à Berlin — Chapter I",
+      "project": "Insane Music",
+      "status": "Reported in Drive",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Kin-dza-dza! — film-mix excerpt 0–180 seconds",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Kin-dza-dza! — film-mix excerpt 130:00–131:30",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Kin-dza-dza! — film-mix excerpt 20:00–22:00",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Kin-dza-dza! — film-mix excerpt 60:00–63:00",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "The Mystery of the Third Planet — film-mix excerpt 0–90 seconds",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "The Mystery of the Third Planet — film-mix excerpt 10:00–12:30",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "The Mystery of the Third Planet — film-mix excerpt 30:00–32:00",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "The Mystery of the Third Planet — full film-mix",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
     },
     {
       "name": "`Аэлита` / Aelita: Queen of Mars (1924) — music and accompaniment",
@@ -656,70 +714,7 @@
       "kind": "Research record"
     },
     {
-      "name": "Kin-dza-dza! — film-mix excerpt 0–180 seconds",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "Kin-dza-dza! — film-mix excerpt 130:00–131:30",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "Kin-dza-dza! — film-mix excerpt 20:00–22:00",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "Kin-dza-dza! — film-mix excerpt 60:00–63:00",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
       "name": "Sovietfilm Drive inventory and accessible film-mix sources — 2026-11-16",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "The Mystery of the Third Planet — film-mix excerpt 0–90 seconds",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "The Mystery of the Third Planet — film-mix excerpt 10:00–12:30",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "The Mystery of the Third Planet — film-mix excerpt 30:00–32:00",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "The Mystery of the Third Planet — full film-mix",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "Workspace redirect — Soviet Film Music",
       "project": "Soviet Film Music",
       "status": "Investigating",
       "updated": "2026-11-17",
