@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T11:29+00:00",
+  "generated_at": "2026-11-17T11:35+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -530,6 +530,13 @@
     },
     {
       "name": "GM-US-018 — Julius Sutton, “Single Girl” (Gordon cylinder A79, Item NC117; 28 October 1925)",
+      "project": "Grudge Mixes",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-US-019 — Waring's Pennsylvanians, “Stack O'Lee Blues” (Victor 19189, 1923)",
       "project": "Grudge Mixes",
       "status": "Researching",
       "updated": "2026-11-17",
