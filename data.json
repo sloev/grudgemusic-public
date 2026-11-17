@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:05+00:00",
+  "generated_at": "2026-11-17T00:14+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -9,7 +9,11 @@
     "Done": "Downloaded audio independently verified.",
     "In Drive (listed)": "A Drive inventory lists the file; this does not establish playback or isolated-track status.",
     "Reported in Drive": "Legacy project notes report a file in Drive; current Drive listing has not been independently checked.",
-    "Researched": "Research or a lawful retrieval route is ready for a download-capable agent.",
+    "Ready for Drive": "Exact downloadable object and permitted route identified; awaiting Drive retrieval.",
+    "Researched": "Research complete enough for further review; not necessarily downloadable.",
+    "Stream only": "A listening route exists; no downloadable file route verified.",
+    "Owner approval needed": "A paid route exists but requires owner approval.",
+    "Blocked / unresolved": "Access, link, or recording identity remains unresolved.",
     "Investigating": "Research, identity, provenance, or access route still being checked."
   },
   "records": [
@@ -581,88 +585,32 @@
       "kind": "Research record"
     },
     {
+      "name": "Legacy provisional note — Faust prison scene",
+      "project": "Insane Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Legacy provisional note — Lonesome Jailhouse Blues",
+      "project": "Insane Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Legacy provisional note — Mille et un jours en prison à Berlin",
+      "project": "Insane Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
       "name": "Philippine Cordillera — Salidummay / Dap-ayan ti Kultura iti Kordilyera cassette research",
       "project": "Insane Music",
       "status": "Investigating",
       "updated": "2026-11-17",
       "kind": "Research record"
-    },
-    {
-      "name": "Faust — Scene de la Prison (Affre / Landouzy)",
-      "project": "Insane Music",
-      "status": "Reported in Drive",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
-    },
-    {
-      "name": "Lonesome Jailhouse Blues — reported Drive file",
-      "project": "Insane Music",
-      "status": "Reported in Drive",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
-    },
-    {
-      "name": "Mille et un jours en prison à Berlin — Chapter I",
-      "project": "Insane Music",
-      "status": "Reported in Drive",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
-    },
-    {
-      "name": "Kin-dza-dza! — film-mix excerpt 0–180 seconds",
-      "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
-    },
-    {
-      "name": "Kin-dza-dza! — film-mix excerpt 130:00–131:30",
-      "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
-    },
-    {
-      "name": "Kin-dza-dza! — film-mix excerpt 20:00–22:00",
-      "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
-    },
-    {
-      "name": "Kin-dza-dza! — film-mix excerpt 60:00–63:00",
-      "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
-    },
-    {
-      "name": "The Mystery of the Third Planet — film-mix excerpt 0–90 seconds",
-      "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
-    },
-    {
-      "name": "The Mystery of the Third Planet — film-mix excerpt 10:00–12:30",
-      "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
-    },
-    {
-      "name": "The Mystery of the Third Planet — film-mix excerpt 30:00–32:00",
-      "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
-    },
-    {
-      "name": "The Mystery of the Third Planet — full film-mix",
-      "project": "Soviet Film Music",
-      "status": "In Drive (listed)",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
     },
     {
       "name": "`Аэлита` / Aelita: Queen of Mars (1924) — music and accompaniment",
@@ -714,6 +662,62 @@
       "kind": "Research record"
     },
     {
+      "name": "Legacy provisional note — Kin-dza-dza! excerpt 0–180s",
+      "project": "Soviet Film Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Legacy provisional note — Kin-dza-dza! excerpt 130–131m30s",
+      "project": "Soviet Film Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Legacy provisional note — Kin-dza-dza! excerpt 20–22m",
+      "project": "Soviet Film Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Legacy provisional note — Kin-dza-dza! excerpt 60–63m",
+      "project": "Soviet Film Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Legacy provisional note — Mystery of the Third Planet excerpt 0–90s",
+      "project": "Soviet Film Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Legacy provisional note — Mystery of the Third Planet excerpt 10–12m30s",
+      "project": "Soviet Film Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Legacy provisional note — Mystery of the Third Planet excerpt 30–32m",
+      "project": "Soviet Film Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Legacy provisional note — Mystery of the Third Planet full mix",
+      "project": "Soviet Film Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
       "name": "SF-AUD-001 — Kin-dza-dza! (Kancheli / Olympia MKM197)",
       "project": "Soviet Film Music",
       "status": "Investigating",
@@ -756,6 +760,20 @@
       "kind": "Research record"
     },
     {
+      "name": "Staging archive — Kancheli MKM 197",
+      "project": "Soviet Film Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Zatsepin film-mix full retrieval — 2026-11-16",
+      "project": "Soviet Film Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
       "name": "Сталкер (1979): Eduard Artemyev's soundtrack and the album recording of «Медитация»",
       "project": "Soviet Film Music",
       "status": "Investigating",
@@ -766,13 +784,6 @@
       "name": "Тайна третьей планеты audio retrieval — 2026-11-16",
       "project": "Soviet Film Music",
       "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "Zatsepin film-mix full retrieval — 2026-11-16",
-      "project": "Soviet Film Music",
-      "status": "Researched",
       "updated": "2026-11-17",
       "kind": "Research record"
     }
