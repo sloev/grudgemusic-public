@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:14+00:00",
+  "generated_at": "2026-11-17T00:15+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -17,6 +17,125 @@
     "Investigating": "Research, identity, provenance, or access route still being checked."
   },
   "records": [
+    {
+      "name": "GM 2026 006 Tuskegee Ive Been Buked Victor 1916",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM IT 001 Caruso Vesti la giubba Victor B 1000 1904",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM IT 002 Si vendetta Galvany Ruffo",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM IT Ah Mimi tu piu Caruso Scotti",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM IT Cortigiani vil razza Ruffo",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM IT Otello Si pel ciel Caruso Ruffo",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM IT Si vendetta Battistini Hayes",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM M01 01 Saint Saens Vengeance at Last deGogorza Homer Victor 1908",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM M01 01 Saint Saens Vengeance at Last deGogorza Homer Victor 1908 UCSB DAHR",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM UK 001 Hagen meditates revenge Radford HMV D704 1922",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM US 001 Bentley Ball Jesse James Columbia A3085 1919 1920",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM US 004 Riley Puckett Jesse James Columbia 15033 D 1924 1925",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM US 006 Riley Puckett Railroad Bill Columbia 15040 D 1924",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM US 010 Peg Leg Howell Jim Hill Ball and Chain Blues Columbia 14535 D 1929",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM US 011 Riley Puckett Boston Burglar Columbia 15050 D 1925",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM US Dalhart Jesse James Edison 51621",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "GM US Waring Stack O Lee Blues 1924",
+      "project": "Grudge Mixes",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
     {
       "name": "African early-recording leads: South Africa 1923 and Anlo-Ewe 1925",
       "project": "Grudge Mixes",
@@ -564,6 +683,41 @@
       "kind": "Research record"
     },
     {
+      "name": "Alcoholic Blues Lu Watters",
+      "project": "Insane Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Good Time Blues Johnny Otis",
+      "project": "Insane Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "IM Flinders Horace Eloise Hospital piano recital 1948",
+      "project": "Insane Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Knockin Blues Ann Jones",
+      "project": "Insane Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "Soledad Brother Prison Letters George Jackson",
+      "project": "Insane Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
       "name": "Brazil small-web cassette discovery: Demo-Tapes Brasil / G.D.E. (2026-11-16)",
       "project": "Insane Music",
       "status": "Investigating",
@@ -611,6 +765,97 @@
       "status": "Investigating",
       "updated": "2026-11-17",
       "kind": "Research record"
+    },
+    {
+      "name": "SF Kancheli Kin dza dza film mix excerpt 0 180s",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Kancheli Kin dza dza film mix excerpt 0 90s",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Kancheli Kin dza dza film mix excerpt 10m 12m30s",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Kancheli Kin dza dza film mix excerpt 130m 131m30s",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Kancheli Kin dza dza film mix excerpt 20m 22m",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Kancheli Kin dza dza film mix excerpt 30m 32m",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Kancheli Kin dza dza film mix excerpt 40m 42m",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Kancheli Kin dza dza film mix excerpt 5m 7m",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Kancheli Kin dza dza film mix excerpt 60m 63m",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Zatsepin Taina tretey planety film mix cue main theme 0 180s",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Zatsepin Taina tretey planety film mix excerpt 20m 22m",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Zatsepin Taina tretey planety film mix excerpt 40m 42m",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
+      "name": "SF Zatsepin Taina tretey planety film mix full",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
     },
     {
       "name": "Staging archive — Kancheli MKM 197",
