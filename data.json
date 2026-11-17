@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:00+00:00",
+  "generated_at": "2026-11-17T00:03+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -553,6 +553,20 @@
     {
       "name": "“Pamp Vorodan” / “Bam Porotan” — Torcom Bézazian, Victor 69102 (1916)",
       "project": "Grudge Mixes",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "Brazil small-web cassette discovery: Demo-Tapes Brasil / G.D.E. (2026-11-16)",
+      "project": "Insane Music",
+      "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "Environment-first research leads",
+      "project": "Insane Music",
       "status": "Investigating",
       "updated": "2026-11-17",
       "kind": "Research record"
