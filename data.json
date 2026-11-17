@@ -613,6 +613,13 @@
       "kind": "Research record"
     },
     {
+      "name": "Staging archive — Kancheli MKM 197",
+      "project": "Soviet Film Music",
+      "status": "In Drive (listed)",
+      "updated": "2026-11-17",
+      "kind": "Drive audio inventory"
+    },
+    {
       "name": "`Аэлита` / Aelita: Queen of Mars (1924) — music and accompaniment",
       "project": "Soviet Film Music",
       "status": "Investigating",
@@ -718,53 +725,11 @@
       "kind": "Drive audio inventory"
     },
     {
-      "name": "SF-AUD-001 — Kin-dza-dza! (Kancheli / Olympia MKM197)",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "SF-AUD-002 — The Mystery of the Third Planet (2022 reconstruction)",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "SF-AUD-003 — The Mystery of the Third Planet (2016 digital issue)",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "SF-AUD-004 — The Mystery of the Third Planet, “Главная тема”",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
-      "name": "SF-AUD-005 — Stalker, “Сталкер: Медитация”",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Research record"
-    },
-    {
       "name": "Sovietfilm Drive inventory and accessible film-mix sources — 2026-11-16",
       "project": "Soviet Film Music",
       "status": "Investigating",
       "updated": "2026-11-17",
       "kind": "Research record"
-    },
-    {
-      "name": "Staging archive — Kancheli MKM 197",
-      "project": "Soviet Film Music",
-      "status": "Investigating",
-      "updated": "2026-11-17",
-      "kind": "Drive audio inventory"
     },
     {
       "name": "Zatsepin film-mix full retrieval — 2026-11-16",
@@ -784,6 +749,41 @@
       "name": "Тайна третьей планеты audio retrieval — 2026-11-16",
       "project": "Soviet Film Music",
       "status": "Investigating",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-AUD-001 — Kin-dza-dza! (Kancheli / Olympia MKM197)",
+      "project": "Soviet Film Music",
+      "status": "Owner approval needed",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-AUD-004 — The Mystery of the Third Planet, “Главная тема”",
+      "project": "Soviet Film Music",
+      "status": "Owner approval needed",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-AUD-002 — The Mystery of the Third Planet (2022 reconstruction)",
+      "project": "Soviet Film Music",
+      "status": "Stream only",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-AUD-003 — The Mystery of the Third Planet (2016 digital issue)",
+      "project": "Soviet Film Music",
+      "status": "Stream only",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-AUD-005 — Stalker, “Сталкер: Медитация”",
+      "project": "Soviet Film Music",
+      "status": "Stream only",
       "updated": "2026-11-17",
       "kind": "Research record"
     }
