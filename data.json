@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:48+00:00",
+  "generated_at": "2026-11-17T00:56+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -802,6 +802,13 @@
       "kind": "Research record"
     },
     {
+      "name": "IM-047 — Dap-ayan ti Kultura iti Kordilyera, *Dong Dong Ay. Salidummay* (c. 1992 cassette)",
+      "project": "Insane Music",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
       "name": "Insane Music legacy migration audit",
       "project": "Insane Music",
       "status": "Researching",
@@ -1069,6 +1076,13 @@
     },
     {
       "name": "SF-ARM-002 — «Պատվի համար» / *For the Sake of Honor* (1952): Edgar Hovhannisyan cue family",
+      "project": "Soviet Film Music",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-ARM-003 — «Առաջին սիրո երգը» / *Song of the First Love* (1958): Armenian film-song object family",
       "project": "Soviet Film Music",
       "status": "Researching",
       "updated": "2026-11-17",
