@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:04+00:00",
+  "generated_at": "2026-11-17T21:27+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -684,6 +684,13 @@
     },
     {
       "name": "South Asia early-recording research note — 2026-11-14",
+      "project": "Grudge Mixes",
+      "status": "Researching",
+      "updated": "2026-11-17",
+      "kind": "Research record"
+    },
+    {
+      "name": "Sovietfilm cue deposit note — 2026-11-17",
       "project": "Grudge Mixes",
       "status": "Researching",
       "updated": "2026-11-17",
