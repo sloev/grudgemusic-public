@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:39+00:00",
+  "generated_at": "2026-11-18T11:40+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -796,6 +796,13 @@
     },
     {
       "name": "IM-038 — Mágicos do Som: two distinct *Saúde Musical* CDs",
+      "project": "Insane Music",
+      "status": "Researching",
+      "updated": "2026-11-18",
+      "kind": "Research record"
+    },
+    {
+      "name": "IM-039 — Harmonia Enlouquece: fifth-album item-level reconciliation (2026-11-18)",
       "project": "Insane Music",
       "status": "Researching",
       "updated": "2026-11-18",
