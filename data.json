@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:47+00:00",
+  "generated_at": "2026-11-18T09:01+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -425,6 +425,13 @@
     },
     {
       "name": "GM-MX-001 — Trío Nava, “Heraclio Bernal” (Columbia C4054 / matrix 87650, July 1921)",
+      "project": "Grudge Mixes",
+      "status": "Researching",
+      "updated": "2026-11-18",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-MX-002 — “Ignacio Parra” (parts 1–2), Rafael Herrera Robinson, Edison two-minute cylinders (1904)",
       "project": "Grudge Mixes",
       "status": "Researching",
       "updated": "2026-11-18",
