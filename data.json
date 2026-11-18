@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:05+00:00",
+  "generated_at": "2026-11-18T10:07+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -1145,6 +1145,13 @@
       "kind": "Research record"
     },
     {
+      "name": "SF-KZ-001 — «Гәкку» (Gakku), vocal cue in «Қыз Жібек» (Kyz-Zhibek, 1970)",
+      "project": "Soviet Film Music",
+      "status": "Researching",
+      "updated": "2026-11-18",
+      "kind": "Research record"
+    },
+    {
       "name": "SF-TJ-001 — «Я встретил девушку» / *I Met a Girl* (1957): Tajikfilm musical and bilingual soundtrack versions",
       "project": "Soviet Film Music",
       "status": "Researching",
@@ -1204,6 +1211,20 @@
       "name": "SF-AUD-005 — Stalker, “Сталкер: Медитация”",
       "project": "Soviet Film Music",
       "status": "Stream only",
+      "updated": "2026-11-18",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-AUD-009 — Stalker (1979), original film-print theme",
+      "project": "Soviet Film Music",
+      "status": "Stream only",
+      "updated": "2026-11-18",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-AUD-010 — «Гәкку» in «Қыз Жібек» (1970)",
+      "project": "Soviet Film Music",
+      "status": "Unresolved",
       "updated": "2026-11-18",
       "kind": "Research record"
     }
