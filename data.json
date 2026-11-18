@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:01+00:00",
+  "generated_at": "2026-11-18T09:03+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -824,6 +824,13 @@
     },
     {
       "name": "IM-047 — Dap-ayan ti Kultura iti Kordilyera, *Dong Dong Ay. Salidummay* (c. 1992 cassette)",
+      "project": "Insane Music",
+      "status": "Researching",
+      "updated": "2026-11-18",
+      "kind": "Research record"
+    },
+    {
+      "name": "IM-048 — *Viajar – Ida e Volta no Caminho do Inconsciente Poético e Musical* (Santo André, Brazil, 2002)",
       "project": "Insane Music",
       "status": "Researching",
       "updated": "2026-11-18",
