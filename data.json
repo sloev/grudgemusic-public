@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:58+00:00",
+  "generated_at": "2026-11-19T09:08+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -299,6 +299,13 @@
     },
     {
       "name": "Global early-recording research map",
+      "project": "Grudge Mixes",
+      "status": "Researching",
+      "updated": "2026-11-19",
+      "kind": "Research record"
+    },
+    {
+      "name": "GM-AL-001 — Shoqnia e hengxhive e shahirave, «Kanga e Oso Kukës» (Gramophone 10771; matrix 4570r; Shkodër, 1908)",
       "project": "Grudge Mixes",
       "status": "Researching",
       "updated": "2026-11-19",
@@ -886,6 +893,13 @@
       "kind": "Research record"
     },
     {
+      "name": "IM-052 — ZeN, *Bakırköy Akıl Hastanesi'nde* (Istanbul, 23 June 1998)",
+      "project": "Insane Music",
+      "status": "Researching",
+      "updated": "2026-11-19",
+      "kind": "Research record"
+    },
+    {
       "name": "Insane Music legacy migration audit",
       "project": "Insane Music",
       "status": "Researching",
@@ -1188,6 +1202,13 @@
     },
     {
       "name": "SF-GE-002 — «არსენა» / *Arsena* (1937): Grigol Kiladze film-music archive lead",
+      "project": "Soviet Film Music",
+      "status": "Researching",
+      "updated": "2026-11-19",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-GE-003 — «ხევსურული ბალადა» / *Khevsuruli Balada* (1965/1966), Rezo Lagidze",
       "project": "Soviet Film Music",
       "status": "Researching",
       "updated": "2026-11-19",
