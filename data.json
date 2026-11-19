@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:34+00:00",
+  "generated_at": "2026-11-19T08:58+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -431,6 +431,13 @@
       "kind": "Research record"
     },
     {
+      "name": "GM-JP-002 — 吉田奈良丸, “勝田新左エ門” (Victor 50181–50182; catalogue year 1915)",
+      "project": "Grudge Mixes",
+      "status": "Researching",
+      "updated": "2026-11-19",
+      "kind": "Research record"
+    },
+    {
       "name": "GM-MX-001 — Trío Nava, “Heraclio Bernal” (Columbia C4054 / matrix 87650, July 1921)",
       "project": "Grudge Mixes",
       "status": "Researching",
@@ -767,13 +774,6 @@
       "kind": "Audio record"
     },
     {
-      "name": "Brazil small-web cassette discovery: Demo-Tapes Brasil / G.D.E. (2026-11-16)",
-      "project": "Insane Music",
-      "status": "Researching",
-      "updated": "2026-11-19",
-      "kind": "Research record"
-    },
-    {
       "name": "Environment-first research leads",
       "project": "Insane Music",
       "status": "Researching",
@@ -879,6 +879,13 @@
       "kind": "Research record"
     },
     {
+      "name": "IM-051 — Caustic, *Unrest* (São Paulo, September 1995)",
+      "project": "Insane Music",
+      "status": "Researching",
+      "updated": "2026-11-19",
+      "kind": "Research record"
+    },
+    {
       "name": "Insane Music legacy migration audit",
       "project": "Insane Music",
       "status": "Researching",
@@ -910,6 +917,13 @@
       "name": "Philippine Cordillera — Salidummay / Dap-ayan ti Kultura iti Kordilyera cassette research",
       "project": "Insane Music",
       "status": "Researching",
+      "updated": "2026-11-19",
+      "kind": "Research record"
+    },
+    {
+      "name": "Brazil small-web cassette discovery: Demo-Tapes Brasil / G.D.E. (2026-11-16)",
+      "project": "Insane Music",
+      "status": "Verified copy",
       "updated": "2026-11-19",
       "kind": "Research record"
     },
@@ -1202,6 +1216,13 @@
     },
     {
       "name": "SF-UZ-001 — “Do‘ppi tikdim” / «Дўппи тикдим» from *Мафтунингман* (*Maftuningman*, 1958)",
+      "project": "Soviet Film Music",
+      "status": "Researching",
+      "updated": "2026-11-19",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-UZ-002 — «Дилором» / *Dilorom* (Uzbekfilm, 1968)",
       "project": "Soviet Film Music",
       "status": "Researching",
       "updated": "2026-11-19",
