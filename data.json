@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:32+00:00",
+  "generated_at": "2026-11-19T08:33+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -866,6 +866,13 @@
     },
     {
       "name": "IM-049 — Tardes Nuestras opening theme, Rosario, Argentina",
+      "project": "Insane Music",
+      "status": "Researching",
+      "updated": "2026-11-19",
+      "kind": "Research record"
+    },
+    {
+      "name": "IM-050 — Anões de Jardim, Demo (1993)",
       "project": "Insane Music",
       "status": "Researching",
       "updated": "2026-11-19",
