@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:33+00:00",
+  "generated_at": "2026-11-19T08:34+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -1159,6 +1159,13 @@
       "kind": "Research record"
     },
     {
+      "name": "SF-AUD-011 — “Песня Данияра” / *Джамиля* (*Jamilya*, 1968/1969)",
+      "project": "Soviet Film Music",
+      "status": "Researching",
+      "updated": "2026-11-19",
+      "kind": "Research record"
+    },
+    {
       "name": "SF-GE-001 — «უკანასკნელი მასკარადი» / *The Last Masquerade* (1934): Grigol Kiladze film-music archive lead",
       "project": "Soviet Film Music",
       "status": "Researching",
@@ -1167,6 +1174,13 @@
     },
     {
       "name": "SF-GE-002 — «არსენა» / *Arsena* (1937): Grigol Kiladze film-music archive lead",
+      "project": "Soviet Film Music",
+      "status": "Researching",
+      "updated": "2026-11-19",
+      "kind": "Research record"
+    },
+    {
+      "name": "SF-KG-001 — “Песня Данияра” / *Джамиля* (*Jamilya*, 1968/1969)",
       "project": "Soviet Film Music",
       "status": "Researching",
       "updated": "2026-11-19",
