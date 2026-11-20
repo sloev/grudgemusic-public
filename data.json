@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:30+00:00",
+  "generated_at": "2026-11-20T16:27+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -236,6 +236,13 @@
     },
     {
       "name": "Discovery pass 2026-11-20 (b): new leads, stories, audio access",
+      "project": "Grudge Mixes",
+      "status": "Researching",
+      "updated": "2026-11-20",
+      "kind": "Research record"
+    },
+    {
+      "name": "Diversity pass 2026-11-20 — beyond prisons",
       "project": "Grudge Mixes",
       "status": "Researching",
       "updated": "2026-11-20",
