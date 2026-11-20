@@ -1,0 +1,27 @@
+:root{--bg:#f6f2ea;--fg:#1c1a17;--mut:#6b655c;--line:#ddd4c6;--card:#fffdf8;--acc:#8a2b1a}
+@media (prefers-color-scheme:dark){:root{--bg:#141210;--fg:#ece5d9;--mut:#a2998b;--line:#36312b;--card:#1d1a17;--acc:#e07a5f}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 Georgia,"Iowan Old Style",serif}
+a{color:var(--acc)}header.site{border-bottom:1px solid var(--line);padding:1rem}
+header.site a.brand{font:700 1.4rem/1.1 Georgia,serif;color:var(--fg);text-decoration:none}
+header.site p{margin:.2rem 0 0;color:var(--mut);font:.9rem system-ui,sans-serif}
+header.site nav{margin-top:.5rem;font:600 .9rem system-ui,sans-serif;display:flex;gap:1rem}
+main{max-width:46rem;margin:0 auto;padding:1rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(14rem,1fr));gap:1rem;max-width:72rem;margin:0 auto;padding:1rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;text-decoration:none;color:var(--fg);display:flex;flex-direction:column}
+.card img{width:100%;aspect-ratio:1;display:block}.card div{padding:.6rem .8rem .9rem}
+.card h2{font-size:1.02rem;line-height:1.3;margin:.2rem 0}.meta{font:.78rem system-ui,sans-serif;color:var(--mut)}
+.tag{display:inline-block;font:600 .72rem system-ui,sans-serif;padding:.15rem .5rem;border-radius:999px;color:#fff}
+.tools{max-width:72rem;margin:0 auto;padding:1rem 1rem 0;display:flex;flex-wrap:wrap;gap:.4rem}
+.tools input{flex:1 1 100%;font:1rem system-ui,sans-serif;padding:.6rem .8rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg)}
+.chip{font:600 .8rem system-ui,sans-serif;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:999px;padding:.35rem .7rem;cursor:pointer}
+.chip.on{background:var(--fg);color:var(--bg)}
+article img.cover{width:100%;max-width:28rem;border-radius:12px;display:block;margin:1rem auto}
+article h1{font-size:1.7rem;line-height:1.2;margin:.6rem 0}
+.embed{position:relative;padding-top:56.25%;margin:1rem 0}.embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0;border-radius:10px}
+.embed.audio{padding-top:0;height:140px}.embed.audio iframe{position:static;height:140px}
+audio{width:100%;margin:1rem 0}
+.listen a{display:block;padding:.6rem .8rem;margin:.35rem 0;border:1px solid var(--line);border-radius:10px;background:var(--card);text-decoration:none;font:600 .92rem system-ui,sans-serif;overflow-wrap:anywhere}
+.sources{font:.85rem system-ui,sans-serif;color:var(--mut)}.sources li{overflow-wrap:anywhere}
+.pn{display:flex;justify-content:space-between;gap:1rem;margin:2rem 0;font:.9rem system-ui,sans-serif}
+footer{text-align:center;color:var(--mut);font:.8rem system-ui,sans-serif;padding:2rem 1rem}
+.hidden{display:none!important}
