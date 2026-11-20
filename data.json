@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:39+00:00",
+  "generated_at": "2026-11-20T11:43+00:00",
   "projects": [
     "Grudge Mixes",
     "Insane Music",
@@ -754,6 +754,13 @@
     },
     {
       "name": "Tashjian Brothers 1910 Columbia repertoire: Dalvorig and Grvetsek Dgherk",
+      "project": "Grudge Mixes",
+      "status": "Researching",
+      "updated": "2026-11-20",
+      "kind": "Research record"
+    },
+    {
+      "name": "The wider universe of *Music in Spite*",
       "project": "Grudge Mixes",
       "status": "Researching",
       "updated": "2026-11-20",
